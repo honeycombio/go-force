@@ -1,7 +1,7 @@
 package force
 
 import (
-	"github.com/nimajalali/go-force/sobjects"
+	"github.com/honeycombio/go-force/sobjects"
 	"testing"
 )
 
